@@ -12,3 +12,7 @@ https://en.wikipedia.org/wiki/Sulfur_vulcanization#cite_note-22
 
 # [Waste Refinery: The Valorization of Waste Plastics and End-of-Life Tires in Refinery Units. A Review](https://pubs.acs.org/doi/10.1021/acs.energyfuels.0c03918)
 Relation: Fluid Catalytic Cracking
+
+# [Thermo-mechanical devulcanization and recycling of rubber industry waste](https://www.sciencedirect.com/science/article/abs/pii/S0921344919300552)
+
+# [Recycling of rubber wastes by devulcanization](https://www.sciencedirect.com/science/article/abs/pii/S0921344918300636)
